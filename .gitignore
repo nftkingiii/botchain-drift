@@ -7,4 +7,5 @@
 **/cache/
 **/broadcast/
 **/PROJECT_STATE.md
+*.tsbuildinfo
 .DS_Store
